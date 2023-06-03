@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PinionsNest
+- 👋 Hi, I’m Pinion
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Webdevelopment.
